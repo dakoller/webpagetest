@@ -2,5 +2,11 @@
 	"ImportPath": "webpagetest",
 	"GoVersion": "go1.11",
 	"GodepVersion": "v80",
-	"Deps": []
+	"Deps": [
+		{
+			"ImportPath": "gopkg.in/ini.v1",
+			"Comment": "v1.38.3",
+			"Rev": "7b294651033cd7d9e7f0d9ffa1b75ed1e198e737"
+		}
+	]
 }
